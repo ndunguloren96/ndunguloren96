@@ -1,4 +1,4 @@
-Hello! I'm Loren Ndung'u 
+https://git.io/typing-svg Hello! I'm Loren Ndung'u 
 
 Welcome to my GitHub profile. I’m a passionate back end developer with a focus on Python, Django, and building scalable web applications. Currently, I’m honing my skills to create secure, efficient and scalable solutions.
 
@@ -12,8 +12,13 @@ Technologies & Tools
 - Version Control: Git, GitHub
 - Tools: Docker, Postman, VS Code
 
+Most Used Language
+https://camo.githubusercontent.com/
+
  Let’s Connect
-- Email: ndunguloren96@gmail.com
-- LinkedIn: https://www.linkedin.com/in/loren-ndungu
-- X:  https://x.com/loren_ndungu
+ndunguloren96@gmail.com
+https://www.linkedin.com/in/loren-ndungu
+https://x.com/loren_ndungu
+https://github.com/ndunguloren96
+
 Thanks for checking out my profile! Feel free to explore my repositories and contact me for collaborations or freelance opportunities. Let's build something great together! 
