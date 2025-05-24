@@ -11,7 +11,6 @@ Hi there, I'm Loren Ndungu 👋
   <a href="mailto:ndunguloren96@gmail.com">Email</a>
 </p>
 
----
 
 ### About Me
 
@@ -31,7 +30,6 @@ Hi there, I'm Loren Ndungu 👋
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
----
 
 ### Connect with Me
 
@@ -40,8 +38,3 @@ Hi there, I'm Loren Ndungu 👋
 - Twitter/X: [@ndunguloren96](https://x.com/ndunguloren96)
 - Email: [ndunguloren96@gmail.com](mailto:ndunguloren96@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ndunguloren96&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="ndunguloren96's GitHub stats" />
-</p>
