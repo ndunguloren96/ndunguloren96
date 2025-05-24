@@ -5,11 +5,7 @@
 
 
 ### About Me
-
-- Backend Developer and passionate student  
-- Skilled in <strong>Python, Django, PostgreSQL, Typescript, Docker, MySQL, Next.js</strong>  
-- Love building robust, functional, efficient, and scalable solutions  
-- <em>"Simple is better than complex, Complex is better than complicated"</em>
+- Love building robust, reliable, and scalable solutions  
 
 
 ### Tech Stack
