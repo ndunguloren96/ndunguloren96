@@ -4,7 +4,7 @@ Hi there, I'm Loren Ndungu 👋
 
 <h1 align="center">Hi there, I'm Loren Ndungu! 👋</h1>
 <p align="center">
-  <b>Backend & and Python Developer</b> <br>
+  <b>Backend & Python Developer</b> <br>
   <a href="https://ndunguloren.netlify.app/">Portfolio Website</a> • 
   <a href="https://www.linkedin.com/in/loren-ndungu">LinkedIn</a> •
   <a href="https://x.com/ndunguloren96">Twitter/X</a> •
