@@ -35,10 +35,6 @@
   <a href="https://x.com/ndunguloren96" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X (Twitter)" width="36" height="36"/>
   </a>
-  &nbsp;
-  <a href="mailto:ndunguloren96@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="36" height="36"/>
-  </a>
 </p>
 
 
