@@ -2,7 +2,7 @@
 Hi there, I'm Loren Ndungu 👋
 -->
 
-<h1 align="center">Hi there, I'm Loren Ndungu! 👋</h1>
+<h1 align="center">Hello there, I'm Loren Ndungu! 👋</h1>
 <p align="center">
   <b>Backend & Python Developer</b> <br>
   <a href="https://ndunguloren.netlify.app/">Portfolio Website</a> • 
@@ -16,7 +16,7 @@ Hi there, I'm Loren Ndungu 👋
 
 - Backend Developer and passionate student
 - Skilled in **Python, Django, PostgreSQL, Typescript, Docker, MySQL, Next.js**
-- Love building robust, efficient, and scalable solutions
+- Love building robust, functional, efficient, and scalable solutions
 - Epiphany: *"Simple is better than complex, Complex is better than complicated"*
 
 
