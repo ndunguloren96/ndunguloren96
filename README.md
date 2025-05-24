@@ -5,20 +5,18 @@ Hi there, I'm Loren Ndungu 👋
 <h1 align="center">Hello there, I'm Loren Ndungu! 👋</h1>
 <p align="center">
   <b>Backend & Python Developer</b> <br>
-  <a href="https://ndunguloren.netlify.app/">Portfolio Website</a> • 
+  <a href="https://ndunguloren.netlify.app/">Portfolio Website <span style="font-size:1.2em;">&#8594;</span></a> • 
   <a href="https://www.linkedin.com/in/loren-ndungu">LinkedIn</a> •
   <a href="https://x.com/ndunguloren96">Twitter/X</a> •
   <a href="mailto:ndunguloren96@gmail.com">Email</a>
 </p>
-
 
 ### About Me
 
 - Backend Developer and passionate student
 - Skilled in **Python, Django, PostgreSQL, Typescript, Docker, MySQL, Next.js**
 - Love building robust, functional, efficient, and scalable solutions
-- Epiphany: *"Simple is better than complex, Complex is better than complicated"*
-
+- *"Simple is better than complex, Complex is better than complicated"*
 
 ### Tech Stack
 
@@ -33,8 +31,13 @@ Hi there, I'm Loren Ndungu 👋
 
 ### Connect with Me
 
-- Portfolio: [ndunguloren.netlify.app](https://ndunguloren.netlify.app/)
-- LinkedIn: [loren-ndungu](https://www.linkedin.com/in/loren-ndungu)
-- Twitter/X: [@ndunguloren96](https://x.com/ndunguloren96)
-- Email: [ndunguloren96@gmail.com](mailto:ndunguloren96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loren-ndungu)
+[![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ndunguloren96)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ndunguloren96@gmail.com)
 
+
+<p align="center">
+  <a href="https://ndunguloren.netlify.app/">
+    <img alt="Read more" src="https://img.shields.io/badge/Read%20more-Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+</p>
