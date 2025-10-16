@@ -7,7 +7,6 @@
 ### About Me
 - Love building useful, reliable, and scalable solutions.
 - Currently working on [Aptifolio](https://aptifolio.com/).
-- Learning: API's
 
 ### Tech Stack
 
