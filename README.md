@@ -7,7 +7,7 @@
 ### About Me
 - Looking to build useful, reliable, and scalable solutions.
 - Currently working on [Aptifolio](https://aptifolio.com/).
-- Learning UI Design and more about API's.
+- Learning more about UI Design and API's.
 
 ### Tech Stack
 
