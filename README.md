@@ -5,7 +5,7 @@
 
 
 ### About Me
-- Love building useful, reliable, and scalable solutions.
+- Looking to build useful, reliable, and scalable solutions.
 - Currently working on [Aptifolio](https://aptifolio.com/).
 
 ### Tech Stack
