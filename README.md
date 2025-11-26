@@ -8,6 +8,7 @@
 - Looking to build useful, reliable, and scalable solutions.
 - Currently working on [Aptifolio](https://aptifolio.com/).
 - Learning more about UI Design and API's.
+- [Know more about me ->>>](https://loren.aptifolio.app/)
 
 ### Tech Stack
 
