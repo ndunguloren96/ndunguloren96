@@ -6,9 +6,15 @@
 
 ### About Me
 - Looking to build useful, reliable, and scalable solutions.
-- Currently working on [Aptifolio](https://aptifolio.com/).
 - Learning more about UI Design and API's.
+- Currently maintaining [Aptifolio](https://aptifolio.com/).
 - [Know more about me ->>>](https://loren.aptifolio.app/)
+
+### Featured work 
+- **2026** - Loading...
+- **2025** - [Aptifolio](https://aptifolio.com/)
+- [All Projects](https://loren.aptifolio.app/projects)
+
 
 ### Tech Stack
 
