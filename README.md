@@ -3,7 +3,6 @@
   <b>Backend Developer</b>
 </p>
 
-
 ### About Me
 - Looking to build useful, reliable, and scalable solutions.
 - Learning more about UI Design and API's.
@@ -11,13 +10,16 @@
 - [Know more about me ->>>](https://loren.aptifolio.app/)
 
 ### Featured work 
-- **2026** - Loading...
-- **2025** - [Aptifolio](https://aptifolio.com/)
-- [All Projects](https://loren.aptifolio.app/projects)
+- **2026**
+  - [Quotewire](https://quotewire.vercel.app)
+  - Loading...
+- **2025**
+  - [Aptifolio](https://aptifolio.com/)
 
+<br />
+<a href="https://loren.aptifolio.app/projects">View All Projects -></a>
 
 ### Tech Stack
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="36" height="36"/>
@@ -28,9 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="36" height="36"/>
 </p>
 
-
 ### Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/lorenkamau" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="36" height="36"/>
@@ -45,8 +45,6 @@
   </a>
 </p>
 
-
-<!-- Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ndunguloren96&label=Profile%20views&color=0e75b6&style=flat" alt="ndunguloren96" />
 </p>
