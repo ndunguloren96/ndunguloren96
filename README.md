@@ -7,7 +7,6 @@
 - Looking to build useful, reliable, and scalable solutions.
 - Learning more about UI Design and API's.
 - Currently updating and maintaining [Aptifolio](https://aptifolio.com/).
-- [Know more about me ->>>](https://loren.aptifolio.app/)
 
 ### Featured work 
 - **2026**
