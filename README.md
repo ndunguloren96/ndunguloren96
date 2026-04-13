@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Loren Kamau. </h1>
 <p align="center">
-  <b>Backend Developer</b>
+  <b>Backend Developer</b><br>
+  <a href="https://lorenkamau.com" target="_blank">lorenkamau.com</a>
 </p>
 
 ### About Me
