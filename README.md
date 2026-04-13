@@ -7,7 +7,7 @@
 ### About Me
 - Looking to build useful, reliable, and scalable solutions.
 - Learning more about UI Design and API's.
-- Currently updating and maintaining [Aptifolio](https://aptifolio.com/).
+- Currently updating and maintaining Aptifolio.
 
 ### Featured work 
 - **2026**
