@@ -5,8 +5,8 @@
 </p>
 
 ### About Me
-- Looking to build useful, reliable, and scalable solutions.
-- Learning more about UI Design and API's.
+- I build useful, reliable, and scalable solutions that are easy to use.
+- Learning more about UI/UX Design and API's.
 - Currently updating and maintaining Aptifolio.
 
 ### Featured work 
@@ -46,6 +46,10 @@
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="36" height="36"/><br />
       <sub><b>AWS</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/><br />
+      <sub><b>Linux</b></sub>
     </td>
   </tr>
 </table>
