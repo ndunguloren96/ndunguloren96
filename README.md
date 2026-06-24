@@ -17,7 +17,7 @@
   - [Aptifolio](https://aptifolio.com/)
 
 <br />
-<a href="https://loren.aptifolio.app/projects">View All Projects -></a>
+
 
 ### Tech Stack
 
