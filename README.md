@@ -5,9 +5,7 @@
 </p>
 
 ### About Me
-- I build useful, reliable, and scalable solutions that are easy to use.
-- Learning more about UI/UX Design and API's.
-- Currently updating and maintaining Aptifolio.
+- I build useful, reliable, and scalable solutions.
 
 ### Featured work 
 - **2026**
