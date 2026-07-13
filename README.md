@@ -10,7 +10,7 @@
 ### Featured work 
 - **2026**
   - [Quotewire](https://quotewire.vercel.app)
-  - Loading...
+    
 - **2025**
   - [Aptifolio](https://aptifolio.com/)
 
